@@ -29,7 +29,7 @@ li:nth-child(3)
 {
 	background-color:pink;	
 }
-l1: first-child, li: :last-child
+l1:first-child, li:last-child
 {
 	font-size:22px;
 	background-color:white;
