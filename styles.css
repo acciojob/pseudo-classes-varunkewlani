@@ -7,6 +7,10 @@ p:nth-child(2)
 	background-color:black;
 	color:white;
 }
+p:nth-child(3)
+{
+	color:black;
+}
 
 p:nth-child(5)
 {
