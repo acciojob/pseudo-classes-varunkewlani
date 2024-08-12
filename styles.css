@@ -2,17 +2,17 @@
 :root{
 	background-color: rgb(135, 206, 235);
 }
-p:nth-child(2)
+p:nth-child(1)
 {
 	background-color:black;
 	color:white;
 }
-p:nth-child(3)
+p:nth-child(2)
 {
 	color:black;
 }
 
-p:nth-child(5)
+p:nth-child(4)
 {
 	color:red;
 }
